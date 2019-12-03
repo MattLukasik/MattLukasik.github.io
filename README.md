@@ -14,7 +14,7 @@ https://mattlukasik.github.io/BestShop/
 
 Loyalty app for children, which, I hope, can encourage them to eat more vegetables.
 
-While child declares eating vegetable via app, parent approves it and grants points. Then child can exchange the points for an award chosen from the list, while parent receive it as a “award ordered” info.  
+While child declares eating vegetable via app, parent approves it and grants points. Then child can exchange the points for an award chosen from the list, while parent receive it as “award ordered” info.  
 Password for parent is "a" :)
 
 In the future there will be second child added (right now in progress).
