@@ -1,4 +1,3 @@
-#
 # BestShop
 > Developed during Front-end Developer CodersLab' Training
 
