@@ -21,6 +21,7 @@ Password for parent is "a" :)
 In the future there will be second child added (right now in progress).
 Also list of available wards should be dynamically set by a parent.
 #
+#
 # Top100 
 
 Simple website displaying the top 100 songs based on the iTunes API.
@@ -28,6 +29,7 @@ Simple website displaying the top 100 songs based on the iTunes API.
 ##### HTML5, CSS, Sass, JavaScript, Bootstrap, React
 
 https://lush-donkey.surge.sh
+#
 #
 # GiveItAwayNow App
 #### HTML5, CSS, Sass, JSON Server, JavaScript, React
