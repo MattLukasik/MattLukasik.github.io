@@ -28,7 +28,7 @@ Simple website displaying the top 100 songs based on the iTunes API.
 
 ##### HTML5, CSS, Sass, JavaScript, Bootstrap, React
 
-https://lush-donkey.surge.sh
+http://lush-donkey.surge.sh
 #
 #
 # GiveItAwayNow App
