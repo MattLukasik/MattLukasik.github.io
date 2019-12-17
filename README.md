@@ -7,6 +7,7 @@ Simple landing page, fully responsive, with offer calculator programmed in js.
 
 https://mattlukasik.github.io/BestShop/
 #
+#
 # HealthyKid App
 > Final project at CodersLab
 >
